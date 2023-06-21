@@ -23,7 +23,7 @@ body {
 
 }
 
-.logo-span {
+.logo-span-header {
     color: #2e2f42;
     font-family: "Releway"sans-serif;
 }
@@ -131,4 +131,9 @@ body {
 
 .item-employee {
     background-color: #FFFFFF
+}
+
+.logo-span-footer {
+    color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
 }
