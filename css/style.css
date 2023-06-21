@@ -8,7 +8,7 @@ body {
 
 /* main-page */
 .logo {
-    font-family: "Releway"sans-serif;
+    font-family: "Raleway"sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -19,13 +19,14 @@ body {
 
 .link {
     text-decoration: none;
-    font-family: "Releway"sans-serif;
+    font-family: "Raleway"sans-serif;
+
 
 }
 
 .logo-span-header {
     color: #2e2f42;
-    font-family: "Releway"sans-serif;
+    font-family: "Raleway"sans-serif;
 }
 
 .nav-items {
