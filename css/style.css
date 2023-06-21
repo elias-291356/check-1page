@@ -96,7 +96,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
-
+    letter-spacing: 0.02em
 }
 
 .subtitle {
@@ -133,7 +133,11 @@ body {
     background-color: #FFFFFF
 }
 
-.logo-span-footer {
+.footer .logo-span-footer {
     color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
+}
+
+.footer .logo {
     font-family: "Raleway", sans-serif;
 }
